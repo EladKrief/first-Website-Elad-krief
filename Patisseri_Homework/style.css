@@ -1,0 +1,88 @@
+.header {
+  background-color: blanchedalmond;
+  padding: 10px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+img {
+  height: 300px;
+  width: 400px;
+}
+.headerImages {
+  display: flex;
+  margin-left: 100px;
+  padding: 10px;
+}
+.Image {
+  flex: 1;
+}
+.headerImages2 {
+  display: flex;
+  margin-left: 100px;
+  padding: 10px;
+}
+.Image2 {
+  flex: 1;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #6c1e1c;
+}
+p {
+  text-align: center;
+}
+.aboutPhoto {
+  height: 500px;
+  width: 100%;
+}
+.specialsText {
+  text-align: left;
+}
+.displayImages {
+  display: flex;
+}
+.specialsImages {
+  flex: 1;
+}
+
+.displayImages2 {
+  display: flex;
+}
+.specialsImages2 {
+  flex: 1;
+  padding: 30px 0px 30px 0px;
+}
+.newImages {
+  margin-left: 350px;
+}
+.newImages2 {
+  margin-left: 350px;
+}
+
+.mangoCake {
+  height: 500px;
+  width: 600px;
+}
+.strawBerry {
+  height: 500px;
+  width: 600px;
+  margin-top: 30px;
+}
+.contactButton {
+  position: fixed;
+}
+#imageCake {
+  height: 50px;
+  width: 50px;
+}
+#pbutton {
+  text-align: left;
+}
+.footer {
+  background-color: blanchedalmond;
+  padding: 10px;
+}
